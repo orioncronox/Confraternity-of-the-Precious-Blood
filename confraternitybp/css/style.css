@@ -1,13 +1,16 @@
 ﻿body {
     padding-top: 50px;
-   
+    }
+
+#master-bgcolor {
+    background-color: #E9F2F9 !important;
+}
+
+.container {
+    padding-bottom: 50px;
     
 }
 
-.container{
-        padding-bottom:50px;
-
-}
 
 .blacktxt{
     color:black;
@@ -59,10 +62,6 @@
    
   }
 
-/*img.things {
-    width: 100%;
-    margin: auto;
-}*/
 
 .banners{
     padding:10px;
@@ -82,3 +81,6 @@
   width:113px ;
   height:150px;
 }
+
+
+

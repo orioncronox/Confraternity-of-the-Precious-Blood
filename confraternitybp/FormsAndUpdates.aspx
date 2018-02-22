@@ -5,7 +5,7 @@
 
 
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" Runat="Server">
-    <div class="container h4">
+    <div class="container h4 ">
 
     INDIVIDUAL FORMS <br /><br />
 - Enrollment Form<br /><br />
@@ -28,7 +28,7 @@ Thank you.
 - Bookstore Merchandise Order Form (to order merchandise only)
 
 - If you are a bookstore and would like to order our books, please call 
-  TAN Books at 1(800)-437-5876."(to order books only) 
+  TAN Books at 1(800)-437-5876."(to order books only) <br /><br />
     </div>
 </asp:Content>
 
