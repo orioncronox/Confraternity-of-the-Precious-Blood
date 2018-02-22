@@ -26,11 +26,12 @@ one Octave of Masses every year. Mailings will go out one month prior to the beg
                 <p class="text-justify h3">
                     <a href="images/BlessedFlowers.jpg" data-lightbox="gallery" data-title="Blessed Flowers from Bethlehem">
                     <h2>Our beautiful Christmas Cards </h2><br />
-                    <img class="center" src="images/BlessedFlowers.jpg"/> <br /><br /></a>
-
+                    <img class="center img-responsive col-md-12"  src="images/BlessedFlowers.jpg"/><br /><br /></a>
+                    
+                  <p>
              Our Christmas Cards are available Aug 1st thru Dec 15th to ensure delivery
              Our beautiful Christmas Cards bear Blessed Flowers from Bethlehem. This is a wonderful gift for family and friends that will gratefully be treasured.  <br /><br />
-                    
+                    </p>
 
             <span class="StJoseph ">To ensure delivery for Christmas please order early. </span>  <a href="NovenaCard.aspx" class="RedLight"> Click Here</a><br /><br />
 
@@ -110,6 +111,10 @@ one Octave of Masses every year. Mailings will go out one month prior to the beg
 
 </div><!--Grid Ends-->
  </div> 
+
+
+
+    </span> 
 
 
 

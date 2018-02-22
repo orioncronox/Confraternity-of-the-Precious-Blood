@@ -3,15 +3,15 @@
 <asp:Content ID="Content1" ContentPlaceHolderID="head" Runat="Server">
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" Runat="Server">
-    <div class="container">
-    <p class="text-center h1 ">
+    <div class="container text-center h3">
+    
 
     Please send all mail to: <br /> <br />
-
- CONFRATERNITY OF THE PRECIOUS BLOOD <br />
+<strong>
+    CONFRATERNITY OF THE PRECIOUS BLOOD <br />
  5300 FORT HAMILTON PARKWAY <br />
  BROOKLYN, NY 11219-4035 <br /><br />
-
+  </strong>  
 
 
  Call us toll free - 1(800)404-3943<br />
@@ -24,7 +24,7 @@ To purchase Confraternity of the Precious Blood books, please contact TAN Books:
 <br />
 
 
-        </p>
+        
         </div>
 </asp:Content>
 
