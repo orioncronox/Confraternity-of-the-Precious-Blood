@@ -5,9 +5,7 @@
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" Runat="Server">
 
     <div class="container">
-    <%--<div class="row">--%>
-      
-          <%-- <div class="col-md-6 col-md-12">--%>
+  
   
     <h4>
    &nbsp;&nbsp;Confraternity family never sells, trades, or promotes your information at any time. <br />
@@ -52,7 +50,7 @@
 
        <strong>"ONE WITH THE HEART OF CHRIST, WE PROCLAIM THE GOOD NEWS: CHRIST, THE SON OF GOD HAS REDEEMED US BY HIS BLOOD! Come let us Adore." </strong>  
           </h4>
-    <%--</div>--%>
+    
      
 </asp:Content>
 

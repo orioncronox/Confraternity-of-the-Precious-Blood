@@ -50,7 +50,7 @@ one Octave of Masses every year. Mailings will go out one month prior to the beg
 
  </div> 
  
-   <section> <!--Carousel Spaghetti-->
+   <section> <!--Carousel-->
             <div class="col-md-5 col-md-offset-1 col-md-11">
           
                 <div class="alert alert-info advertisemagnets h1 hidden-xs hidden-sm" role="alert">
@@ -72,16 +72,13 @@ one Octave of Masses every year. Mailings will go out one month prior to the beg
               <!-- Wrapper for slides -->
               <div class="carousel-inner" role="listbox">
                 <div class="item active">
-                <a href="OrderForms.aspx">  <img src="images/display/HIR.jpg" alt="..." class="img-thumbnail"></a>
-                  <div class="carousel-caption">
-                  </div>
-                </div>
+                <a href="images/docs/HIR.pdf">  <img src="images/display/HIR.jpg" alt="..." class="img-thumbnail">
+                
+                </div></a>
                 <div class="item">
-                  <a href="OrderForms.aspx"><img src="images/display/KCIC.jpg" alt="..." class="img-thumbnail"></a>
-                  <div class="carousel-caption">
-                  
-                  </div>
-                </div>
+                  <a href="images/docs/KCC.pdf"><img src="images/display/KCIC.jpg" alt="..." class="img-thumbnail">
+                 
+                </div></a>
                     </div>
 
               <!-- Controls -->
