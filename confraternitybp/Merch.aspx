@@ -81,9 +81,49 @@
                      <td align="center"> <a href="images/Merch/JMJ Medal with Chain.png" data-lightbox="gallery" data-title="JMJ medal with Chain   $1.00">
               <img class="galleryimg" src="images/Merch/JMJ Medal with Chain.png" /> </td>
 
-                     <td align="center"><br /><br /><span class="h4 text-right">JMJ medal with Chain  <br /><br /> $ 2.00 </span></td>
+                     <td align="center"><br /><br /><span class="h4 text-right">JMJ Medal with Chain  <br /><br /> $ 2.00 </span></td>
 
                  </tr>
+
+                   <tr>
+
+                               <td align="center"> <a href="images/Merch/preciousblood-chaplet.png" data-lightbox="gallery" data-title="	Precious Blood Chaplet   $15.00">
+              <img class="galleryimg" src="images/Merch/preciousblood-chaplet.png" /> </td>
+
+                     <td align="center"><br /><br /><span class="h4 text-right">Precious Blood Chaplet <br /><br /> $15.00 </span></td>
+
+                 </tr>
+
+                     <td align="center"> <a href="images/Merch/myownprayers.png" data-lightbox="gallery" data-title="My Own Prayers  0.25¢">
+              <img class="galleryimg" src="images/Merch/myownprayers.png" /> </td>
+
+                     <td align="center"><br /><br /><span class="h4 text-right">My Own Prayers  <br /><br /> 0.25¢ </span></td>
+
+                 </tr>
+
+                  <td align="center"> <a href="images/Merch/massclock-leaflet.png" data-lightbox="gallery" data-title="Mass Clock Leaflet   0.25¢">
+              <img class="galleryimg" src="images/Merch/massclock-leaflet.png" /> </td>
+
+                     <td align="center"><br /><br /><span class="h4 text-right">Mass Clock Leaflet  <br /><br /> 0.25¢ </span></td>
+
+                 </tr>
+
+         
+                 <td align="center"> <a href="images/Merch/preciousblood-litany.png" data-lightbox="gallery" data-title="Precious Blood Litany   0.25¢">
+              <img class="galleryimg" src="images/Merch/preciousblood-litany.png" /> </td>
+
+                     <td align="center"><br /><br /><span class="h4 text-right">Precious Blood Litany <br /><br /> 0.25¢ </span></td>
+
+                 </tr>
+
+                 
+                 <td align="center"> <a href="images/Merch/goldfinished-bowpin.png" data-lightbox="gallery" data-title="Gold Finished Bow Pin with Miraculous Medal   $1.00">
+              <img class="galleryimg" src="images/Merch/goldfinished-bowpin.png" /> </td>
+
+                     <td align="center"><br /><br /><span class="h4 text-right">Gold Finished Bow Pin with Miraculous Medal <br /><br /> $ 1.00 </span></td>
+
+                 </tr>
+
 
     </tbody>
                 
