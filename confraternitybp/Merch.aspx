@@ -94,6 +94,13 @@
 
                  </tr>
 
+                    <td align="center"> <a href="images/Merch/Precious Blood Cord.png" data-lightbox="gallery" data-title="Precious Blood Cord  $1.50">
+              <img class="galleryimg" src="images/Merch/Precious Blood Cord.png" /> </td>
+
+                     <td align="center"><br /><br /><span class="h4 text-right">Precious Blood Cord  <br /><br /> $1.50 </span></td>
+
+                 </tr>
+
                      <td align="center"> <a href="images/Merch/myownprayers.png" data-lightbox="gallery" data-title="My Own Prayers  0.25¢">
               <img class="galleryimg" src="images/Merch/myownprayers.png" /> </td>
 
