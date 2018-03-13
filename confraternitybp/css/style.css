@@ -2,11 +2,12 @@
     padding-top: 50px;
     }
 
-#master-bgcolor {
+/*#master-bgcolor {
     background-color: #E9F2F9 !important;
-}
+}*/
 
 .container {
+    padding-top: 25px;
     padding-bottom: 50px;
     
 }
@@ -17,8 +18,16 @@
 }
 
 .sizing-img {
-      height:56px;
-          width:56px;
+      background-size:cover;
+}
+.icon {
+    height: 56px;
+    width: 56px;
+}
+
+.menu-text {
+    text-shadow: 3px 3px 20px #ffffff;
+    text-align:center;
 }
 
 .RedLight {
@@ -39,13 +48,19 @@
   color:forestgreen;
 }
 
-.jumbotron {
-    color: #ffffff;
-    background: url(../images/ConfBP.jpg) no-repeat top;
+.cover-letter {
+    text-align:center;
+    color:azure;
     text-shadow: 20px 20px 10px #000000;
-    background-size: 50%;
-    background-position: center;
-    background-color:rebeccapurple;
+    text-decoration:double;
+}
+.jumbotron {
+    
+    background: url(../images/ConfBP.jpg) no-repeat;
+    background-size: cover;
+    background-position:center;
+    
+    
 }
 
 
@@ -53,11 +68,10 @@
     padding-top:15px;
 }
 
-#logo{
-    padding:10px;
-    margin-top:-5px;
-
-}
+#logo {
+    padding: 10px;
+    margin-top: -5px;
+   }
 
 .advertisemagnets{
     color:#ff342b;
@@ -84,5 +98,8 @@
   height:150px;
 }
 
-
+.img-xmascard{
+    padding-bottom:15px;
+  
+}
 

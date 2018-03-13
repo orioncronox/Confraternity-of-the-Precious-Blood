@@ -26,7 +26,7 @@ one Octave of Masses every year. Mailings will go out one month prior to the beg
                 <p class="text-justify h3">
                     <a href="images/BlessedFlowers.jpg" data-lightbox="gallery" data-title="Blessed Flowers from Bethlehem">
                     <h2>Our beautiful Christmas Cards </h2><br />
-                    <img class="center img-responsive col-md-12"  src="images/BlessedFlowers.jpg"/><br /><br /></a>
+                    <img class="center img-responsive col-md-12 img-xmascard"  src="images/BlessedFlowers.jpg"/><br /><br /></a>
                     
                   <p>
              Our Christmas Cards are available Aug 1st thru Dec 15th to ensure delivery

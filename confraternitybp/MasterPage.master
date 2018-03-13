@@ -17,7 +17,7 @@
    
     <div class="jumbotron jumbotron-fluid " style="border:1px solid #ffffff">  <!--Jumbotron-->
   
-         <div class="container">
+         <div class="cover-letter">
           
        <h1>Confraternity of The Precious Blood</h1> 
        
@@ -39,11 +39,11 @@
             
           
             <a id="logo" class="navbar-brand conta" href="Home.aspx">    <!-- Home Image-->
-            <img src="images/seal.jpg" alt="Seal" class="sizing-img img-thumbnail">
-            </a>
+            <div class="icon"><img src="images/seal.jpg" alt="Seal" class="sizing-img img-thumbnail">
+           </div> </a>
                     
         </div>
-        <div id="navbar" class="collapse navbar-collapse text-center">
+        <div id="navbar" class="collapse navbar-collapse menu-text">
           <ul class="nav navbar-nav">
             <li ><a  href="Home.aspx">Home</a></li>
             <li><a href="history.aspx">About Us</a></li>
