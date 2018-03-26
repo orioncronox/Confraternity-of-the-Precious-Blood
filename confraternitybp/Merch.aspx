@@ -4,7 +4,7 @@
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" Runat="Server">
    <div class="container">
-        <h1> Merchandise available for order! <a href="images/docs/Name.pdf"><span class="RedLight"> Click  Here </span></a>to print your order form: </h1>
+        <h1> Merchandise available for order! <a href="images/docs/Merch-Form.pdf"><span class="RedLight"> Click  Here </span></a>to print your order form: </h1>
 
     <table class="table">
         <thead>
