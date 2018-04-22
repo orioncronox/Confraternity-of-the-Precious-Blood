@@ -1,11 +1,14 @@
 ﻿body {
     padding-top: 50px;
-    }
+    background: url(https://images.pexels.com/photos/242236/pexels-photo-242236.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
+    
+}
 
-/*#master-bgcolor {
-    background-color: #E9F2F9 !important;
-}*/
 
+
+.FullPageColor {
+    color: #d9dde2;
+}
 .container {
     padding-top: 25px;
     padding-bottom: 50px;
@@ -55,7 +58,7 @@
     text-decoration:double;
 }
 .jumbotron {
-    
+    margin-bottom:20px;
     background: url(../images/ConfBP.jpg) no-repeat;
     background-size: cover;
     background-position:center;
