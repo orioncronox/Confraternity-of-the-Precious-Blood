@@ -50,8 +50,8 @@
             <li><a href="history.aspx">About Us</a></li>
             <li><a href="Contact.aspx">Contact Us</a></li>
               <li><a href="JoinUs.aspx">Join Us</a></li>
-               <li><a href="FormsAndUpdates.aspx">Forms & Updates</a></li>
-               <li><a href="Bookstore.aspx">Bookstore & Merch</a></li>
+              <%-- <li><a href="FormsAndUpdates.aspx">Forms & Updates</a></li>--%>
+               <li><a href="Bookstore.aspx">Merchandise and Forms</a></li>
 
           </ul>
         </div><!--/.nav-collapse / Closes here-->

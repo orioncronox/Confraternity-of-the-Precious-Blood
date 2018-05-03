@@ -14,13 +14,13 @@
   </strong>  
 
 
- Call us toll free - 1(800)404-3943<br />
+ Call us toll free - 1(&nbsp;800&nbsp;)&nbsp;404-3943<br />
 
- For calls within the United States - 1(718)436-1120<br />
+ For calls within the United States - 1(&nbsp;718&nbsp;)&nbsp;436-1120<br />
 
                                    __________________________________________________<br />
 To purchase Confraternity of the Precious Blood books, please contact TAN Books: <br />
-1(800) 437-5876      www.TANBooks.com<br />
+1(800) 437-5876  &nbsp;&nbsp;&nbsp; www.TANBooks.com<br />
 <br />
 
 

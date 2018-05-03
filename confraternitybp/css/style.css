@@ -1,7 +1,7 @@
 ﻿body {
     padding-top: 50px;
-    background: url(https://images.pexels.com/photos/242236/pexels-photo-242236.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
-    
+    background: url(https://images.pexels.com/photos/850796/pexels-photo-850796.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
+    background-size: cover;
 }
 
 
@@ -58,11 +58,13 @@
     text-decoration:double;
 }
 .jumbotron {
+    margin-top:15px;
     margin-bottom:20px;
     background: url(../images/ConfBP.jpg) no-repeat;
     background-size: cover;
     background-position:center;
-    
+    border-bottom-color:black;
+    border-bottom:50px;
     
 }
 
@@ -106,3 +108,25 @@
   
 }
 
+.merch-table {
+    padding-left:20%;
+}
+
+.home-text{
+    margin-top:50px;
+}
+
+.carousel-img{
+    background-size:cover; 
+    background-position:center;
+}
+
+.home-img-margin{
+   margin-top:50px;
+}
+
+.xmascard-border{
+   
+    border:15px solid white;
+    
+}

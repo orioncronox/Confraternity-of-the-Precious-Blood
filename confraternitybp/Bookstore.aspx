@@ -11,17 +11,19 @@
                 <a href="Merch.aspx"><img class="banners img-thumbnail" src="images/CPBMerch.gif" /></a>
                                             </div>
             <div class="col-lg-5 h4">
-               <br /><br /> Enrollment, Merchandise and Petitions forms can be found in the "Forms and Updates" section. Simply type your information onto the form and print out completed, or print the blank form to fill out later.
+               <br /><br /> View our lovely merchandise. <br />Simply type your information onto the form and <br />
+                print out completed or print blank and fill-in.
                 </div>
 
                                </div>
         <div class="row">
-             <div class="col-lg-6">
-               <a href="NovenaCard.aspx"> <img class="banners img-thumbnail" src="images/CPB_Novena.gif" /></a> 
+             <div class="col-lg-6">    <%--Remove phone number from picture-- REPLACE NUMBER FOR ORDER FORMS--%>
+               <a href="Forms.aspx"> <img class="banners img-thumbnail" src="images/CPB_Novena.gif" /></a> 
             </div>
 
             <div class="col-lg-6 h4">
-               <br /><br /> Christmas Card cover picture may vary.
+               <br /><br /> Christmas Cards, Enrollment & Petitions forms.<br />
+                Join our mailing list to receive our Novenas.
                 </div>
         </div>
 
@@ -31,9 +33,10 @@
             </div>
              <div class="col-lg-5 h4 container">
                  <br /><br />
-                 Individuals wishing to place a book order can do so online by visiting www.TANBooks.com or by phone at 1(800)437-5876. 
-                 Bookstores, can place their order by calling 1(800)437-5876. A portion of proceeds from every order will go directly towards supporting 
-                 the Sisters Adorers of the Precious Blood in their vocation.
+                 To purchase Confraternity Books,<br /> please contact <strong>Tan Books:</strong><br />
+                 1(800) 427-5876 or www.TANBooks.com<br />
+                 A portion of proceeds from every order will go directly towards
+                 supporting the Sisters Adorers of the Precious Blood in their vocation.<br />
 
              </div>
 

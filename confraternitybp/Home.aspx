@@ -7,28 +7,54 @@
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" Runat="Server">
     
     <div class="container " >
-        <div class="alert-success text-center">
-          <h2><strong><span class="RedLight "> IMPORTANT NOVENA INFORMATION</span></strong></h2>
+        <div class="alert-info text-center">
+          <h2><strong><span class="RedLight "> NOVENA AND CHRISTMAS CARD INFORMATION</span></strong></h2>
 
         <p class="lead blacktxt">We are pleased to announce that we have two Novenas and 
-one Octave of Masses every year. Mailings will go out one month prior to the beginning of each one.</p> 
+one Octave of Masses every year.<br /> Mailings will go out one month prior to the beginning of each one.</p> 
   
-<h3>
+<h4>
 <span class="StJoseph">Novena to St. Joseph </span><span class="blacktxt"> - March 11th through March 19th.<br /><br />
 <span class="RedLight"> Novena to the Precious Blood </span>- June 23rd through July 1st<br /><br />
 <span class="XmasMasses">Christmas Octave of Masses</span>- Christmas Day at Midnight through January 1st<br /><br />
- </h3>
+ </h4>
+            <p class="lead blacktxt">
+             Want to be a part of our Novenas!<br />
+              <h4><span class="blacktxt">Join us by enrolling in the Confraternity and union of <br />the Precious Blood or be added to our mailing list. 800-404-3943 or 718-436-1120 <br /></h4></span>  
+       <a href="images/docs/Enrollment Form.pdf" class="RedLight"><span class="h4"> Join Here</span> <br /></a></p>
+        We wish to express our sincere gratitude for those who faithfully support the Confraternity financially and especially with your continued prayers.<br />
+        Confraternity family never sells, trades, or promotes your information at any time.
+        We greatly value and respect your privacy.
+
+
             <%--  --%>
         </div>
 
+       
+
   <div class="row"> <!--Bootstrap's Grid System-->
-  <div class="col-md-6 col-md-11">
-                <p class="text-justify h3">
-                    <a href="images/BlessedFlowers.jpg" data-lightbox="gallery" data-title="Blessed Flowers from Bethlehem">
-                    <h2>Our beautiful Christmas Cards </h2><br />
+ <%-- <div class="col-md-6 col-md-11">--%>
+     <div class="col-lg-6 home-img-margin" > 
+                   <a href="images/BlessedFlowers.jpg" data-lightbox="gallery" data-title="Blessed Flowers from Bethlehem">
+                    <%--<h2>Our beautiful Christmas Cards </h2><br />--%>
                     <img class="center img-responsive col-md-12 img-xmascard"  src="images/BlessedFlowers.jpg"/><br /><br /></a>
-                    
-                  <p>
+              
+              </div>
+      <div class="col-lg-6 home-text" >
+
+          <h2>Our Beautiful Christmas Cards with Blessed Flowers from Bethlehem.</h2><br /> <h4>This is a wonderful gift for family
+          and friends that will gratefully be trasured. To ensure delivery for Christmas please order early.<br /><br />
+                    <a href="images/docs/Flowers Blessed.pdf" class="RedLight">Click Here</a></h4>
+          <br /><br />
+          <br /><br />
+          <br /><br />
+          <br /><br />
+          (Cover picture may vary)
+
+
+         
+
+                   <%--<p>
              Our Christmas Cards are available Aug 1st thru Dec 15th to ensure delivery
              Our beautiful Christmas Cards bear Blessed Flowers from Bethlehem. This is a wonderful gift for family and friends that will gratefully be treasured.  <br /><br />
                     </p>
@@ -43,21 +69,22 @@ one Octave of Masses every year. Mailings will go out one month prior to the beg
              We value and respect your privacy.<br /><br />
 
             <strong>We wish to express our sincere gratitude for those who faithfully support
-            the Confraternity financially and especially with your continued prayers.</strong><br /><br />
-                
-                </p>
-    
+            the Confraternity financially and especially with your continued prayers.</strong><br /><br />--%>
+                               
+</div>
+                 
+    </div>
 
  </div> 
- 
+ <div class="container">
    <section> <!--Carousel-->
-            <div class="col-md-5 col-md-offset-1 col-md-11">
+            <div class="col-lg-6">
           
-                <div class="alert alert-info advertisemagnets h1 hidden-xs hidden-sm" role="alert">
+                <%--<div class="alert alert-info advertisemagnets h1 hidden-xs hidden-sm" role="alert">
                        
 
                     <marquee scrollamount="10">  <span class="glyphicon glyphicon-exclamation-sign" aria-hidden="true"></span>NEW CAR MAGNETS
-                    <span class="glyphicon glyphicon-exclamation-sign" aria-hidden="true"></span> NEW CAR MAGNETS </marquee></div>
+                    <span class="glyphicon glyphicon-exclamation-sign" aria-hidden="true"></span> NEW CAR MAGNETS </marquee></div>--%>
                   
 
 
@@ -70,7 +97,7 @@ one Octave of Masses every year. Mailings will go out one month prior to the beg
               </ol>
 
               <!-- Wrapper for slides -->
-              <div class="carousel-inner" role="listbox">
+              <div class="carousel-inner carousel-img" role="listbox">
                 <div class="item active">
                 <a href="images/docs/HIR.pdf">  <img src="images/display/HIR.jpg" alt="..." class="img-thumbnail">
                 
@@ -95,23 +122,28 @@ one Octave of Masses every year. Mailings will go out one month prior to the beg
 
 </div>
 
-                <br /><br /><div class="text-center alert-warning blacktxt ">Car Magnets are a wonderful way to spread the ultimate message of faith to the world year round! <br /><br />
+                <%--<br /><br /><div class="text-center alert-warning blacktxt ">Car Magnets are a wonderful way to spread the ultimate message of faith to the world year round! <br /><br />
         
      Spread the reason for the seasons!<br /> $ 5.00 each (size 6.25” x 7”)  <a href="OrderForms.aspx" class="RedLight"> Click Here</a><br /> <br /><br />
          Make check out to Confraternity of the Precious Blood
       
-      </div>
+      </div>--%>
+</div>
+
+<div class="col-lg-6">
+    <h2>Spread the reason for the seasons!</h2><br />
+    
+    <h4>
+    Car Magnets are a wonderful way to spread the ultimate message of faith to the world year round! $5.00 each (size 6.25" x 7")<br /> <br />
+        <a href="OrderForms.aspx" class="RedLight"> Click Here</a>
+        </h4>
 
 </div>
 </section> 
+     </div>
 
+<!--Grid Ends-->
 
-</div><!--Grid Ends-->
- </div> 
-
-
-
-    </span> 
 
 
 
