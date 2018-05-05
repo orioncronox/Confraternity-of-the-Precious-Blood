@@ -116,10 +116,6 @@
     margin-top:50px;
 }
 
-.carousel-img{
-    background-size:cover; 
-    background-position:center;
-}
 
 .home-img-margin{
    margin-top:50px;
@@ -129,4 +125,8 @@
    
     border:15px solid white;
     
+}
+
+.carousel-img {
+  margin-left:47px;
 }

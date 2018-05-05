@@ -97,15 +97,15 @@ one Octave of Masses every year.<br /> Mailings will go out one month prior to t
               </ol>
 
               <!-- Wrapper for slides -->
-              <div class="carousel-inner carousel-img" role="listbox">
+              <div class="carousel-inner" role="listbox">
                 <div class="item active">
-                <a href="images/docs/HIR.pdf">  <img src="images/display/HIR.jpg" alt="..." class="img-thumbnail">
-                
-                </div></a>
-                <div class="item">
-                  <a href="images/docs/KCC.pdf"><img src="images/display/KCIC.jpg" alt="..." class="img-thumbnail">
-                 
-                </div></a>
+                <a href="images/docs/HIR.pdf">  <img src="images/display/HIR.jpg" alt="..." class="img-thumbnail carousel-img">
+                </a>
+                </div>
+                <div class="item" >
+                  <a href="images/docs/KCC.pdf"><img src="images/display/KCIC.jpg" alt="..." class="img-thumbnail carousel-img">
+                 </a>
+                </div>
                     </div>
 
               <!-- Controls -->
@@ -113,7 +113,7 @@ one Octave of Masses every year.<br /> Mailings will go out one month prior to t
                 <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
                 <span class="sr-only">Previous</span>
               </a>
-              <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
+              <a class="carousel-control right" href="#carousel-example-generic" role="button" data-slide="next">
                 <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
                 <span class="sr-only">Next</span>
               </a>
@@ -122,12 +122,7 @@ one Octave of Masses every year.<br /> Mailings will go out one month prior to t
 
 </div>
 
-                <%--<br /><br /><div class="text-center alert-warning blacktxt ">Car Magnets are a wonderful way to spread the ultimate message of faith to the world year round! <br /><br />
-        
-     Spread the reason for the seasons!<br /> $ 5.00 each (size 6.25” x 7”)  <a href="OrderForms.aspx" class="RedLight"> Click Here</a><br /> <br /><br />
-         Make check out to Confraternity of the Precious Blood
-      
-      </div>--%>
+              
 </div>
 
 <div class="col-lg-6">
