@@ -33,11 +33,10 @@ one Octave of Masses every year.<br /> Mailings will go out one month prior to t
        
 
   <div class="row"> <!--Bootstrap's Grid System-->
- <%-- <div class="col-md-6 col-md-11">--%>
+ 
      <div class="col-lg-6 home-img-margin" > 
                    <a href="images/BlessedFlowers.jpg" data-lightbox="gallery" data-title="Blessed Flowers from Bethlehem">
-                    <%--<h2>Our beautiful Christmas Cards </h2><br />--%>
-                    <img class="center img-responsive col-md-12 img-xmascard"  src="images/BlessedFlowers.jpg"/><br /><br /></a>
+                   <img class="center img-responsive col-md-12 img-xmascard"  src="images/BlessedFlowers.jpg"/><br /><br /></a>
               
               </div>
       <div class="col-lg-6 home-text" >
@@ -51,26 +50,9 @@ one Octave of Masses every year.<br /> Mailings will go out one month prior to t
           <br /><br />
           (Cover picture may vary)
 
+                  
 
-         
-
-                   <%--<p>
-             Our Christmas Cards are available Aug 1st thru Dec 15th to ensure delivery
-             Our beautiful Christmas Cards bear Blessed Flowers from Bethlehem. This is a wonderful gift for family and friends that will gratefully be treasured.  <br /><br />
-                    </p>
-
-            <span class="StJoseph ">To ensure delivery for Christmas please order early. </span>  <a href="NovenaCard.aspx" class="RedLight"> Click Here</a><br /><br />
-
-             If you do not receive our mailing for any of the above, or would like to be
-             added to our mailing list please call us (800) 404-3943.<br />
-                
-             Confraternity family never sells, trades, or promotes 
-             your information to anyone at anytime.
-             We value and respect your privacy.<br /><br />
-
-            <strong>We wish to express our sincere gratitude for those who faithfully support
-            the Confraternity financially and especially with your continued prayers.</strong><br /><br />--%>
-                               
+                                         
 </div>
                  
     </div>
@@ -80,21 +62,13 @@ one Octave of Masses every year.<br /> Mailings will go out one month prior to t
    <section> <!--Carousel-->
             <div class="col-lg-6">
           
-                <%--<div class="alert alert-info advertisemagnets h1 hidden-xs hidden-sm" role="alert">
-                       
-
-                    <marquee scrollamount="10">  <span class="glyphicon glyphicon-exclamation-sign" aria-hidden="true"></span>NEW CAR MAGNETS
-                    <span class="glyphicon glyphicon-exclamation-sign" aria-hidden="true"></span> NEW CAR MAGNETS </marquee></div>--%>
-                  
-
-
+              
                 <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
               <!-- Indicators -->
               <ol class="carousel-indicators">
                 <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
                 <li data-target="#carousel-example-generic" data-slide-to="1"></li>
-             <%--   <li data-target="#carousel-example-generic" data-slide-to="2"></li>--%>
-              </ol>
+                </ol>
 
               <!-- Wrapper for slides -->
               <div class="carousel-inner" role="listbox">
@@ -126,7 +100,7 @@ one Octave of Masses every year.<br /> Mailings will go out one month prior to t
 </div>
 
 <div class="col-lg-6">
-    <h2>Spread the reason for the seasons!</h2><br />
+    <h2>Spread the reason for the Seasons!</h2><br />
     
     <h4>
     Car Magnets are a wonderful way to spread the ultimate message of faith to the world year round! $5.00 each (size 6.25" x 7")<br /> <br />

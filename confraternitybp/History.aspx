@@ -8,8 +8,7 @@
   
   
     <h4>
- <%--  &nbsp;&nbsp;Confraternity family never sells, trades, or promotes your information at any time. <br />
-    We greatly value and respect your privacy.<br /><br />--%>
+
 
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong> The Sisters Adorers of the Precious Blood</strong>, an order founded in 1861 in St. Hyacinthe,
         Quebec, came to the United States and to Brooklyn in 1890 at the request of Bishop John 

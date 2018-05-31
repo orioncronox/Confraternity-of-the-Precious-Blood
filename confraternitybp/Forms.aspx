@@ -9,7 +9,7 @@
     Individual Forms <br /></center>
     </h1>
     <h3><center>
-        Simply type your intormation onto the form and 
+        Simply type your information onto the form and 
         Print out completed or print blank and fill-in.
         </center></h3><br /><br />
         <h1>

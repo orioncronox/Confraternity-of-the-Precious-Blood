@@ -1,7 +1,7 @@
 ﻿body {
-    padding-top: 50px;
-    background: url(https://images.pexels.com/photos/850796/pexels-photo-850796.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
+      background: url(https://images.pexels.com/photos/850796/pexels-photo-850796.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
     background-size: cover;
+  
 }
 
 
@@ -52,21 +52,22 @@
 }
 
 .cover-letter {
-    text-align:center;
-    color:azure;
-    text-shadow: 20px 20px 10px #000000;
+    text-align: center;
+    color: azure;
+    text-shadow: 20px 20px 10px black;
     text-decoration:double;
+    margin-bottom:475px;
+    
 }
 .jumbotron {
     margin-top:15px;
-    margin-bottom:20px;
-    background: url(../images/ConfBP.png) no-repeat;
-    background-size: cover;
-    background-position:center;
-    border-bottom-color:black;
-    border-bottom:50px;
+    margin-bottom: 20px;
+    background: url(../images/Edit-two.png)no-repeat;
+    background-size:cover;
+    position:center;
     
 }
+
 
 
 .nav {

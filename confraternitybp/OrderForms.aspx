@@ -6,9 +6,9 @@
     <div class="container">
     <div class="row">
         <div class="col-lg-12"> 
-            <div class="alert-success" role="alert">
-                <h1 class="text-center">Click on the picture for the order form!</h1>
-                <p class="h3 text-center"> click on the desired merchandise and it will take you to the order form for printing</p></p>
+            <div class="alert-success" >
+               <br /><center> <span class="StJoseph h1">Click on the desired magnet for the order form!</span></center><br />
+              
             </div></div>
 
     </div>
