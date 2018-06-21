@@ -6,7 +6,7 @@
     <div class="container">
         
           <h2>
-   <strong><p class="text-center">Join us by enrolling in the Confraternity and union of the Precious Blood. <br /><br /></strong> </p>
+   <strong><p class="text-center">Join us by enrolling in the Confraternity and Union of the Precious Blood. <br /><br /></strong> </p>
               <p ></h2>
                   <h4>
     Enrollment is open to both living members and departed loved ones. <br />
