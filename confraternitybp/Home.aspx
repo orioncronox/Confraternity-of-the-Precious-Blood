@@ -20,7 +20,7 @@ one Octave of Masses every year.<br /> Mailings will go out one month prior to t
  </h4>
             <p class="lead blacktxt">
              Want to be a part of our Novenas!<br />
-              <h4><span class="blacktxt">Join us by enrolling in the Confraternity and Union of <br />the Precious Blood or be added to our mailing list. 800-404-3943 or 718-436-1120 <br /></h4></span>  
+              <h4><span class="blacktxt">Join us by enrolling in the Confraternity and Union of the Precious Blood <br />or be added to our mailing list. 800-404-3943 or 718-436-1120 <br /></h4></span>  
        <a href="images/docs/Enrollment Form.pdf" class="RedLight"><span class="h4"> Join Here</span> <br /></a></p>
         We wish to express our sincere gratitude for those who faithfully support the Confraternity financially and especially with your continued prayers.<br />
         Confraternity family never sells, trades, or promotes your information at any time.
@@ -42,7 +42,7 @@ one Octave of Masses every year.<br /> Mailings will go out one month prior to t
       <div class="col-lg-6 home-text" >
 
           <h2>Our Beautiful Christmas Cards with Blessed Flowers from Bethlehem.</h2><br /> <h4>This is a wonderful gift for family
-          and friends that will gratefully be treasure. To ensure delivery for Christmas please order early.<br /><br />
+          and friends that will gratefully be treasured. To ensure delivery for Christmas please order early.<br /><br />
                     <a href="images/docs/Flowers Blessed.pdf" class="RedLight">Click Here</a></h4>
           <br /><br />
           <br /><br />

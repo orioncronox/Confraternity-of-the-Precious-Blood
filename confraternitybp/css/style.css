@@ -5,6 +5,8 @@
 }
 
 
+    
+}
 
 .FullPageColor {
     color: #d9dde2;
@@ -60,12 +62,12 @@
     
 }
 .jumbotron {
-    margin-top:15px;
-    margin-bottom: 20px;
+    /*margin-top:5px;*/
+    /*margin-bottom: 20px;*/
     background: url(../images/Edit-two.png)no-repeat;
-    background-size:cover;
-    position:center;
-    
+    background-size:contain;
+    font-family:'Times New Roman';
+    font-size:60px;
 }
 
 
